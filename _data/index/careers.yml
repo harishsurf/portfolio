@@ -1,22 +1,42 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: RedHat
   desc:
-    detail: I worked at Company A ...
+    detail: Working as a Software engineer as part of Quay team
   date:
-    detail: Apr. 2016
+    detail: July 2021 - present
   job:
-    detail: CTO
+    detail: Software Engineer
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: RedHat
   desc:
-    detail: I worked at Company B ...
+    detail: Openshift intern, worked on Operator Lifecycle Mgmt and Console team
   date:
-    detail: Jun. 2015
+    detail: Jan 2020 - Dec 2020
   job:
-    detail: Full Stack Developer
+    detail: Intern
   icon: fa-plus-square
+
+- name:
+    detail: Mathworks Inc
+  desc:
+    detail: Worked as part of Matlab Graphics team
+  date:
+    detail: Nov 2017 - Dec 2018
+  job:
+    detail: Software Development Engineer in Test,
+  icon: fa-plus-square
+
+- name:
+    detail: Oracle Financial Services Software
+  desc:
+    detail: Worked as a Test engineer as part of Oracle Health Insurance team
+  date:
+    detail: Jan 2020 - Dec 2020
+  job:
+    detail: Intern
+  icon: fa-plus-square    
